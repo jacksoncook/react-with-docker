@@ -1,2 +1,2 @@
 # dotz-web-app
-Home of dotz web applicationm
+Home of dotz web application
