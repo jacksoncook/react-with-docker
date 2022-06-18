@@ -10,4 +10,4 @@ RUN npm install --production
 
 COPY . .
 
-CMD ["node", "src/main.js"]
+CMD ["npm", "start"]
